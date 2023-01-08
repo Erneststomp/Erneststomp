@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Erneststomp
+- 👋 Hi, I’m Ernesto Eduardo Lopez Lopez
 - 👀 I’m interested in vdeogames, apps, and anime. 
-- 🌱 I’m currently learning html, css, java, python.
-- 💞️ I’m looking to collaborate on anything but if is videogame or siglnal processing it would be awesome.
-- 📫 How to reach me ...
-
-<!---
-Erneststomp/Erneststomp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m a fullstack developer with react js as a main tool in frontend and nodejs in backend.
+- 💞️ I’m looking to collaborate on different projects, I like to focus on signal processing or data analysis, but I am open to any project.
+- 📫 How to reach me:
+- Linkedin: https://www.linkedin.com/in/ernesto-eduardo-lopez-lopez-aa029815a/
+- email: ernesto.lopez.lbm@outlook.com 
